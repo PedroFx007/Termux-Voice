@@ -1,0 +1,13 @@
+Para usar
+
+digite bash setup.sh para instalar as dependencias
+
+após isso
+
+digite bash voice.sh
+
+em seguida digite a frase  que voce deseja ser falada (sem espaços)
+
+por exemplo
+
+tudobemcomvoçê?
