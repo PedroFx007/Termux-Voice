@@ -3,7 +3,7 @@ Write whatever you want the terminal says!
 
 Commands:
 
-git clone
+git clone https://github.com/PedroFx007/Termux-Voice
 
 cd Termux-Voice
 
